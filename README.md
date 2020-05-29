@@ -4,6 +4,8 @@ Ce dépôt contient le projet 2 pour le parcours OpenClassrooms Développeur d'a
 
 ## Aperçu
 
+![MagicGithub](https://user.oc-static.com/upload/2019/04/04/1554368898926_image2.png)
+
 L'application est déjà développée, mais crash au démarrage. Les tests présents ne sont pas valides.
 L'objectif est de corriger l'application pour supprimer l'erreur et valider les tests.
 
