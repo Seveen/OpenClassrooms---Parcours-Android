@@ -11,8 +11,8 @@ L'objectif est de corriger l'application pour supprimer l'erreur et valider les 
 
 ## Livrables attendus
 
-2 Rapports de tests initiaux (indiquant que les tests échouent)
-2 Rapports de tests finaux (indiquant que les tests réussissent)
+* 2 Rapports de tests initiaux (indiquant que les tests échouent)
+* 2 Rapports de tests finaux (indiquant que les tests réussissent)
 
 ## Compétences évaluées
 
